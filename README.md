@@ -1,4 +1,4 @@
-# Seja bem vindo!
+# Olá, seja bem vindo!
 :mortar_board: Tecnólogo em Automação Industrial (IFSP) <br/>
 :mortar_board: Engenheiro de Controle e Automação (IFSP) <br/>
 :mortar_board: Especialista em Ciência de Dados (UTFPR) <br/>
