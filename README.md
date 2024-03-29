@@ -1,5 +1,8 @@
 # Seja bem vindo!
-# Este portfólio contém alguns projetos realizados durante os estudos em cursos de formação, pós-graduação e projetos pessoais.
+:mortar_board: Tecnólogo em Automação Industrial E
+:mortar_board: Engenheiro de Controle e Automação (IFSP)
+:mortar_board: Especialista em Ciência de Dados (UTFPR)
+Este portfólio contém alguns projetos realizados durante os estudos em cursos de formação, pós-graduação e projetos pessoais.
 
 
   <div id="badges">
